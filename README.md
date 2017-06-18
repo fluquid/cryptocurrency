@@ -32,6 +32,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | iotaledger/iri | 79 | 36 | 7 | 1,100 | 10 | |  |
 | lisk | 273 | 57 | 6 | 2,500 | 19 | |  |
 | gridcoin | 121 | 86 | 7 | 1025 | 22 | | |
+| augur | 184 | 6 | 1 | 2700 | 13 | | |
 
 * bitcoin
   * https://www.bitcoin.com/
@@ -114,4 +115,6 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 * gridcoin
   * https://www.gridcoin.us/
   * https://github.com/gridcoin/Gridcoin-Research/graphs/commit-activity
-  
+* augur
+  * https://augur.net/
+  * https://github.com/AugurProject/augur-core/graphs/contributors
