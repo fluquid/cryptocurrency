@@ -2,7 +2,7 @@
 
 Inspired by https://github.com/kilimchoi/cryptocurrency
 
-| Symbol | Name | Stars | Issues | PRs | Commits (-fork) | Contributors | Forked | Inactive 6m | Notes |
+| Symbol | Name | Stars | Issues | PRs | Commits | Contribs | Forked | Inactive | Notes |
 |-|-|-|-|-|-|-|-|-|-|
 | BTC | bitcoin | 13,000 | 500 | 200 | 14,000 | 450 | |  |  |
 | ETH | ethereum | 5,000 | 360 | 35 | 8,000 | 130 | | | |
@@ -23,12 +23,12 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | REP | augur | 180 | 6 | 1 | 2,700 | 13 | |  | $330m |
 | FCT | factom | 59 | 4 | 8 | 8,600 | 46 | |  | $260m |
 | SC | sia | 1,000 | 156 | 16 | 7,200 | 26 | |  | |
-| MAID | maidsafe/safe_vault | 86 | 19 | 2 | 1,800 | 24 | | ? | |
-| STEEM | steem | 367 | 146 | 11 | 1,900 | 29 | |  | $470m MC |
+| MAID | maidsafe | 86 | 19 | 2 | 1,800 | 24 | | ? | |
+| STEEM | steem | 367 | 146 | 11 | 1,900 | 29 | |  | $470m |
 | NXT | nxt | | | | | | | | on bitbucket |
 | ARDR | ardor | | | | | | | | based on nxt; on bitbucket; $200m |
 | PIVX | pivx | 71 | 14 | 2 | 580 | ? | *dash* |  | |
-| XML | ~~stellar/stallar-core~~ | 448 | 99 | 14 | 3,300 | 28 | |  | |
+| XML | ~~stellar~~ | 448 | 99 | 14 | 3,300 | 28 | |  | |
 | LKK | ~~lykke~~ | | | | | | | | |
 | MIOTA | iota | 79 | 36 | 7 | 1,100 | 10 | |  | |
 | LSK | lisk | 273 | 57 | 6 | 2,500 | 19 | |  | |
@@ -103,6 +103,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
   * https://github.com/PIVX-Project/PIVX
 * stellar
   * https://www.stellar.org/developers/
+  * https://github.com/stellar/stallar-core
   * https://github.com/stellar/go/graphs/contributors
 * lykke
   https://www.lykke.com/ico/
