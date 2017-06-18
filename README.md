@@ -50,12 +50,12 @@ Sentiment analysis to be added soon ;)
 * Reddit (CryptoCurrency + Best_of_crypto) keyword mentions April 9th - June 18th 2017.
 * Submission (title, selftext) + comment.body >= 3 points, with symbols replaced for full names.
 * Filtered for https://coinmarketcap.com/all/views/all/ "All" (excluding common dictionary words like `['crypto', 'money', 'impact', 'version', 'universe', 'altcoin', 'tickets', 'rise', 'verge']`)
-* Minimum mentions: 30
+* Minimum mentions: 0.3%
 
 total mentions: 9096
 
 | symbol | name | % mentions | % market cap | mentions / market cap |
-|-|-|-|-|
+|-|-|-|-|-|
 | GRC | gridcoin | 1.8% | 0.0% | 6687% |
 | ZEN | zencash | 0.3% | 0.0% | 3224% |
 | LKK | lykke | 1.0% | 0.1% | 1733% |
