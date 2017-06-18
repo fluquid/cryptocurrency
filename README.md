@@ -6,15 +6,15 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 |-|-|-|-|-|-|-|-|-|-|
 | BTC | bitcoin | 13,000 | 500 | 200 | 14,000 | 450 | |  |  |
 | ETH | ethereum | 5,000 | 360 | 35 | 8,000 | 130 | | | |
-| XRP | ~~ripple~~ | | | | | | | | |
+| XRP | ~~ripple~~ | | | | | | | | founder ctrl 60% [1] |
 | GNO | gnosis | | | | | | | | $267m |
-| LTC | ~~litecoin~~ | 1,400 | 14 | 7 | 450 | ? | *bitcoin* | y | |
-| XEM | ~~nem~~ | 67 | 2 | 3 | 626 | 3 |  | y | |
+| LTC | ~~litecoin~~ | 1,400 | 14 | 7 | 450 | ? | *bitcoin* | y | inactive |
+| XEM | ~~nem~~ | 67 | 2 | 3 | 626 | 3 |  | y | inactive |
 | DASH | *dash* | 460 | 55 | 15 | 3,500 | ? | *bitcoin* |  | $1400m | 
-| STRAT | ~~stratis~~ | | | | | | | | |
-| BTS | ~~bitshares~~ | 222 | 91 | 7 | 354 | ? | *graphene* | ? | | 
+| STRAT | *stratis* | | | | | | | | |
+| BTS | ~~bitshares~~ | 222 | 91 | 7 | 354 | ? | *graphene* | ? | main dev left [1] | 
 | XMR | monero | 700 | 201 | 18 | 4,000 | 100 | |  | $700m MC |
-| BCN | ~~bytecoin~~ | 120 | 74 | 2 | 84 | 5 | | y | |
+| BCN | ~~bytecoin~~ | 120 | 74 | 2 | 84 | 5 | | y | premined [1] |
 | ZEC | ~~zcash~~ | 2,500 | 577 | 38 | 10,000 | 350 |  |  | 20% reward to devs [1] |
 | SJCX | ~~storj~~ | 260 | 17 | 4 | 1,300 | 22 | |  | sia considered better |
 | WAVES | waves | 140 | 29 | 6 | 4,400 | 25 | |  | |
@@ -28,8 +28,8 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | NXT | nxt | | | | | | | | on bitbucket |
 | ARDR | ardor | | | | | | | | based on nxt; on bitbucket; $200m |
 | PIVX | pivx | 71 | 14 | 2 | 580 | ? | *dash* |  | |
-| XML | ~~stellar~~ | 448 | 99 | 14 | 3,300 | 28 | |  | |
-| LKK | ~~lykke~~ | | | | | | | | |
+| XML | ~~stellar~~ | 448 | 99 | 14 | 3,300 | 28 | |  | founders hold 90% [1] |
+| LKK | ~~lykke~~ | | | | | | | | mobile-only, no US [1] |
 | MIOTA | iota | 79 | 36 | 7 | 1,100 | 10 | |  | |
 | LSK | lisk | 273 | 57 | 6 | 2,500 | 19 | |  | |
 | GRC | gridcoin | 121 | 86 | 7 | 1025 | 22 | | | |
