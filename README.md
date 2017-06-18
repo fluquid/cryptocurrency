@@ -3,7 +3,7 @@
 Inspired by https://github.com/kilimchoi/cryptocurrency
 
 | Symbol | Name | Stars | Issues | PRs | Commits (-fork) | Contributors | Forked | Inactive 6m | Notes |
-|--------|------|-------|--------|-----|-----------------|--------------|--------|-------------|-------|
+|-|-|-|-|-|-|-|-|-|-|
 | BTC | bitcoin | 13,000 | 500 | 200 | 14,000 | 450 | |  |  |
 | ETH | ethereum | 5,000 | 360 | 35 | 8,000 | 130 | | | |
 | XRP | ~~ripple~~ | | | | | | | | |
