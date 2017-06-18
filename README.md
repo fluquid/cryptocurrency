@@ -4,8 +4,8 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 
 | Name | Stars | Issues | PRs | Commits (-fork) | Contributors | Forked | Inactive 6m | 
 |------|-------|--------|-----|-----------------|--------------|--------|-----------|
-| ~~bitcoin~~ | 13,000 | 500 | 200 | 14,000 | 450 | |  |  
-| ~~ethereum~~ | 5,000 | 360 | 35 | 8,000 | 130 | | | 
+| bitcoin | 13,000 | 500 | 200 | 14,000 | 450 | |  |  
+| ethereum | 5,000 | 360 | 35 | 8,000 | 130 | | | 
 | ~~ripple~~ | | | | | | | | 
 | gnosis | | | | | | | | 
 | ~~litecoin~~ | 1,400 | 14 | 7 | 450 | ? | **bitcoin** | y | 
