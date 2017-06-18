@@ -47,9 +47,10 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 The below are not to be understood as endorsements, they are merely mentions that indicate that a certain altcoin is being discussed.
 Sentiment analysis to be added soon ;)
 
-* Reddit (CryptoCurrency + Best_of_crypto) keyword mentions April 9th - June 18th 2017.
+* Reddit (CryptoCurrency + Best_of_crypto) keyword mentions May 1st - June 18th 2017
 * Submission (title, selftext) + comment.body >= 3 points, with symbols replaced for full names.
 * Filtered for https://coinmarketcap.com/all/views/all/ "All" (excluding common dictionary words like `['crypto', 'money', 'impact', 'version', 'universe', 'altcoin', 'tickets', 'rise', 'verge']`)
+* Note: Market Caps at final value, i.e. not reflective of the time period.
 * Minimum mentions: 0.3%
 
 total mentions: 9096
