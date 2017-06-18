@@ -27,7 +27,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | steem | 367 | 146 | 11 | 1,900 | 29 | |  |
 | ~~nxt~~ | | | | | | | |
 | pivx | 71 | 14 | 2 | 580 | ? | dash |  |
-| stellar/stallar-core | 448 | 99 | 14 | 3,300 | 28 | |  |
+| ~~stellar/stallar-core~~ | 448 | 99 | 14 | 3,300 | 28 | |  |
 | lykke | | | | | | | |
 | iotaledger/iri | 79 | 36 | 7 | 1,100 | 10 | |  |
 | lisk | 273 | 57 | 6 | 2,500 | 19 | |  |
