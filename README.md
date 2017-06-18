@@ -31,6 +31,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | ~~lykke~~ | | | | | | | |
 | iotaledger/iri | 79 | 36 | 7 | 1,100 | 10 | |  |
 | lisk | 273 | 57 | 6 | 2,500 | 19 | |  |
+| gridcoin | 121 | 86 | 7 | 1025 | 22 | | |
 
 * bitcoin
   * https://www.bitcoin.com/
@@ -110,3 +111,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 * lisk
   * https://lisk.io/get_started
   * https://github.com/LiskHQ/lisk/graphs/contributors
+* gridcoin
+  * https://www.gridcoin.us/
+  * https://github.com/gridcoin/Gridcoin-Research/graphs/commit-activity
+  
