@@ -15,7 +15,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | bitshares | 222 | 91 | 7 | 354 | ? | **graphene** | ? | 
 | monero | 700 | 201 | 18 | 4,000 | 100 | |  |
 | ~~bytecoin~~ | 120 | 74 | 2 | 84 | 5 | | y |
-| zcash | 2,500 | 577 | 38 | 10,000 | 350 |  |  |
+| __zcash__ | 2,500 | 577 | 38 | 10,000 | 350 |  |  |
 | storj | 260 | 17 | 4 | 1,300 | 22 | |  |
 | waves | 140 | 29 | 6 | 4,400 | 25 | |  |
 | golem | 920 | 122 | 8 | 3,800 | 13 | |  |
