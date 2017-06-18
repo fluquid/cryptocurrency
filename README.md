@@ -2,6 +2,38 @@
 
 Inspired by https://github.com/kilimchoi/cryptocurrency
 
+| Name | Stars | Issues | PRs | Commits (-fork) | Contributors | Forked | Inactive 6m | 
+|------|-------|--------|-----|-----------------|--------------|--------|-----------|
+| bitcoin | 13,000 | 500 | 200 | 14,000 | 450 | |  |  
+| ethereum | 5,000 | 360 | 35 | 8,000 | 130 | | | 
+| ripple | | | | | | | | 
+| gnosis | | | | | | | | 
+| litecoin | 1,400 | 14 | 7 | 450 | ? | bitcoin | y | 
+| nem | 67 | 2 | 3 | 626 | 3 |  | y | 
+| dash | 460 | 55 | 15 | 3,500 | ? | bitcoin |  | 
+| stratis | | | | | | | | 
+| bitshares | 222 | 91 | 7 | 1,500 | 30 | graphene | ? | 
+| monero | 700 | 201 | 18 | 4,000 | 100 | |  |
+| bytecoin | 120 | 74 | 2 | 84 | 5 | | y |
+| zcash | 2,500 | 577 | 38 | 10,000 | 350 |  |  |
+| storj | 260 | 17 | 4 | 1,300 | 22 | |  |
+| waves | 140 | 29 | 6 | 4,400 | 25 | |  |
+| golem | 920 | 122 | 8 | 3,800 | 13 | |  |
+| dogecoin | 1,240 | 53 | 11 | 8,600 | 299 | ? | 2015 |
+| augur | 180 | 6 | 1 | 2,700 | 13 | |  |
+| factom | 59 | 4 | 8 | 8,600 | 46 | |  |
+| sia | 1,000 | 156 | 16 | 7,200 | 26 | |  |
+| maidsafe/safe_vault | 86 | 19 | 2 | 1,800 | 24 | | ? |
+| steem | 367 | 146 | 11 | 1,900 | 29 | |  |
+| nxt | | | | | | | |
+| pivx | 71 | 14 | 2 | 580 | ? | dash |  |
+| stellar/stallar-core | 448 | 99 | 14 | 3,300 | 28 | |  |
+| lykke | | | | | | | |
+| iotaledger/iri | 79 | 36 | 7 | 1,100 | 10 | |  |
+| lisk | 273 | 57 | 6 | 2,500 | 19 | |  |
+
+
+
 | Name          | Description                                              | Pros                                                                  | Cons                                             | Where to buy                                                           | Similar to | Category |
 |---------------|----------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------------|------------|----------|
 | [Bitcoin (BTC)](https://bitcoin.org/en/) | Bitcoin is a cryptocurrency and a digital payment system | • Most widely used cryptocurrency <br/> • Largest developer community | • Slow transaction time <br/> • Not segwit-ready | [Coinbase](https://www.coinbase.com/join/52893754c1edbc9eee000481)     | Litecoin   | Currency |	
@@ -27,35 +59,6 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | [Lykke (LKK)](https://www.lykke.com/) | Next-generation trading platform with zero commission | • You can trade colored coins that are associated with physical assets <br/> • 0 trading fees <br/> • Each Lykke coin represents a share in the company | • No mining available <br/> • Coin is available only via their mobile app <br/> • Not available in the US | N/A | Bitshares, Waves | Decentralized Exchange
 | [Komodo (KMD)](https://komodoplatform.com/) | Komodo Platform aims to provide security to third-party blockchains using delayed Proof of Work (dPoW) and zero-proof knowledge based on Zcash | • Allows developers to build independent blockchains <br /> • Resistant to parent chain's fee inflation <br /> • Zcash-level privacy <br /> • Support smart contracts development <br/> • Atomic cross-chain swap possible, hence no exchange fee on its DEX. | • Relatively unknown | [Bittrex](https://bittrex.com) | Ethereum, Stratis | Platform, Decentralized Exchange
 
-| Name | Stars | Issues | PRs | Commits (-fork) | Contributors | Forked | Active 6m | 
-|------|-------|--------|-----|-----------------|--------------|--------|-----------|
-| bitcoin | 13000 | 500 | 200 | 14000 | 450 | | y |  
-| ethereum | 5000 | 360 | 35 | 8000 | 130 | | y | 
-| ripple | | | | | | | | 
-| gnosis | | | | | | | | 
-| litecoin | 1400 | 14 | 7 | 450 | ? | bitcoin | n | 
-| nem | 67 | 2 | 3 | 626 | 3 | n | n | 
-| dash | 460 | 55 | 15 | 3500 | ? | bitcoin | y | 
-| stratis | | | | | | | | 
-| bitshares | 222 | 91 | 7 | 1500 | 30 | graphene | ? | 
-| monero | 700 | 201 | 18 | 4000 | 100 | | y |
-| bytecoin | 120 | 74 | 2 | 84 | 5 | | n |
-| zcash | 2500 | 577 | 38 | 10000 | 350 |  | y |
-| storj | 260 | 17 | 4 | 1300 | 22 | | y |
-| waves | 140 | 29 | 6 | 4400 | 25 | | y |
-| golem | 920 | 122 | 8 | 3800 | 13 | | y |
-| dogecoin | 1240 | 53 | 11 | 8600 | 299 | ? | 2015 |
-| augur | 180 | 6 | 1 | 2700 | 13 | | y |
-| factom | 59 | 4 | 8 | 8600 | 46 | | y |
-| sia | 1000 | 156 | 16 | 7200 | 26 | | y |
-| maidsafe/safe_vault | 86 | 19 | 2 | 1800 | 24 | | ? |
-| steem | 367 | 146 | 11 | 1900 | 29 | | y |
-| nxt | | | | | | | |
-| pivx | 71 | 14 | 2 | 580 | ? | dash | y |
-| stellar/stallar-core | 448 | 99 | 14 | 3300 | 28 | | y |
-| lykke | | | | | | | |
-| iotaledger/iri | 79 | 36 | 7 | 1100 | 10 | | y |
-| lisk | 273 | 57 | 6 | 2500 | 19 | | y |
 
 
 
