@@ -44,7 +44,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 
 ## Mindshare / Social Chatter
 
-The below are (not yet) to be understood as endorsements, they are merely mentions that indicate that a certain altcoin is being discussed.
+The below are not to be understood as endorsements, they are merely mentions that indicate that a certain altcoin is being discussed.
 Sentiment analysis to be added soon ;)
 
 * Reddit (CryptoCurrency + Best_of_crypto) keyword mentions April 9th - June 18th 2017.
