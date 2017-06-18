@@ -28,6 +28,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | [Komodo (KMD)](https://komodoplatform.com/) | Komodo Platform aims to provide security to third-party blockchains using delayed Proof of Work (dPoW) and zero-proof knowledge based on Zcash | • Allows developers to build independent blockchains <br /> • Resistant to parent chain's fee inflation <br /> • Zcash-level privacy <br /> • Support smart contracts development <br/> • Atomic cross-chain swap possible, hence no exchange fee on its DEX. | • Relatively unknown | [Bittrex](https://bittrex.com) | Ethereum, Stratis | Platform, Decentralized Exchange
 
 | Name | Stars | Issues | PRs | Commits (-fork) | Contributors | Forked | Active 6m | 
+|------|-------|--------|-----|-----------------|--------------|--------|-----------|
 | bitcoin | 13000 | 500 | 200 | 14000 | 450 | | y |  
 | ethereum | 5000 | 360 | 35 | 8000 | 130 | | y | 
 | ripple | | | | | | | | 
