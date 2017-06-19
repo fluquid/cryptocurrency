@@ -2,6 +2,75 @@
 
 Inspired by https://github.com/kilimchoi/cryptocurrency
 
+## Mindshare / Social Chatter
+
+The below are not to be understood as endorsements, they are merely mentions that indicate that a certain altcoin is being discussed.
+Sentiment analysis to be added soon ;)
+
+* Reddit (r/CryptoCurrency + r/Best_of_crypto) keyword mentions May 1st - June 18th 2017
+* Submission (title, selftext) + comment.body > 2 points, with currency symbols replaced for full names.
+* Filtered for https://coinmarketcap.com/all/views/all/ "All"; excluding common dictionary words like: 
+    `{'crypto', 'money', 'impact', 'version', 'universe', 'altcoin', 'tickets', 'rise', 'verge', 'steps', 'burst', 'block'}`
+* Note: Market Caps at final value, i.e. not representative of the time period.
+* Minimum mentions: 0.1%
+
+total mentions: 9080
+
+| symbol | name | %mentions / %market cap | # mentions | market cap ($M) |
+|-|-|-:|-:|-:|
+| HODL | hodlcoin | 93320.8% | 27 | 0.4 |
+| GRC | gridcoin | 6447.0% | 167 | 31.7 |
+| ZEN | zencash | 3603.8% | 30 | 10.2 |
+| LKK | lykke | 1724.5% | 92 | 65.2 |
+| XBY | xtrabytes | 1475.8% | 20 | 16.6 |
+| PIVX | pivx | 1362.9% | 105 | 94.2 |
+| SWT | swarm city | 1145.6% | 20 | 21.4 |
+| VTC | vertcoin | 1084.8% | 25 | 28.2 |
+| RDD | reddcoin | 955.8% | 44 | 56.3 |
+| FTC | feathercoin | 954.7% | 11 | 14.1 |
+| XMR | monero | 910.4% | 541 | 726.7 |
+| MOON | mooncoin | 780.9% | 14 | 21.9 |
+| BLOCK | blocknet | 675.6% | 12 | 21.7 |
+| GNT | golem | 661.4% | 307 | 567.6 |
+| ARK | ark | 649.6% | 38 | 71.5 |
+| HMQ | humaniq | 646.6% | 15 | 28.4 |
+| WINGS | wings | 521.7% | 23 | 53.9 |
+| SC | siacoin | 481.4% | 178 | 452.2 |
+| POT | potcoin | 468.1% | 10 | 26.1 |
+| NXT | nxt | 415.3% | 61 | 179.6 |
+| DGB | digibyte | 398.2% | 77 | 236.5 |
+| SYS | syscoin | 375.4% | 31 | 101.0 |
+| ARDR | ardor | 333.2% | 63 | 231.2 |
+| MYST | mysterium | 323.8% | 11 | 41.5 |
+| ANT | aragon | 301.9% | 24 | 97.2 |
+| ZEC | zcash | 299.8% | 143 | 583.3 |
+| DASH | dash | 284.0% | 337 | 1,451.1 |
+| LTC | litecoin | 279.9% | 588 | 2,569.3 |
+| PPC | peercoin | 260.4% | 12 | 56.4 |
+| ANS | antshares | 254.2% | 61 | 293.4 |
+| UBQ | ubiq | 253.5% | 16 | 77.2 |
+| USDT | tether | 242.5% | 25 | 126.1 |
+| FCT | factom | 219.6% | 52 | 289.6 |
+| XEM | nem | 198.9% | 293 | 1,801.7 |
+| STEEM | steem | 192.3% | 75 | 477.0 |
+| ICN | iconomi | 188.1% | 33 | 214.6 |
+| STRAT | stratis | 187.5% | 111 | 723.9 |
+| DOGE | dogecoin | 186.0% | 54 | 355.0 |
+| DCR | decred | 169.5% | 29 | 209.2 |
+| LSK | lisk | 164.7% | 47 | 349.0 |
+| GBYTE | byteball | 152.8% | 26 | 208.1 |
+| WAVES | waves | 138.7% | 56 | 493.6 |
+| MIOTA | iota | 134.1% | 127 | 1,158.2 |
+| BCN | bytecoin | 109.5% | 42 | 469.2 |
+| BTS | bitshares | 109.2% | 77 | 862.5 |
+| XRP | ripple | 91.3% | 812 | 10,876.0 |
+| REP | augur | 81.6% | 23 | 344.7 |
+| ETC | ethereum classic | 71.3% | 123 | 2,109.7 |
+| KMD | komodo | 64.3% | 12 | 228.2 |
+| BTC | bitcoin | 57.5% | 2005 | 42,618.1 |
+| XLM | stellar lumens | 55.4% | 17 | 375.5 |
+| ETH | ethereum | 53.0% | 1500 | 34,630.7 |
+
 ## Github Stats
 
 | Symbol | Name | Stars | Issues | PRs | Commits | Contribs | Forked | Inactive | Notes |
@@ -42,63 +111,7 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 | | reddcoin |||||||||
 | | swarm city |||||||||
 
-## Mindshare / Social Chatter
 
-The below are not to be understood as endorsements, they are merely mentions that indicate that a certain altcoin is being discussed.
-Sentiment analysis to be added soon ;)
-
-* Reddit (CryptoCurrency + Best_of_crypto) keyword mentions May 1st - June 18th 2017
-* Submission (title, selftext) + comment.body >= 3 points, with symbols replaced for full names.
-* Filtered for https://coinmarketcap.com/all/views/all/ "All" (excluding common dictionary words like `['crypto', 'money', 'impact', 'version', 'universe', 'altcoin', 'tickets', 'rise', 'verge']`)
-* Note: Market Caps at final value, i.e. not representative of the time period.
-* Minimum mentions: 0.2%
-
-total mentions: 9096
-
-| symbol | name | % mentions | % market cap | mentions / market cap | market cap (M) |
-|-|-|-|-|-|-|
-| HODL | hodlcoin | 0.3% | 0.0% | 98768% | 0.29 |
-| GRC | gridcoin | 2.0% | 0.0% | 7390% | 29.85 |
-| ZEN | zencash | 0.6% | 0.0% | 6114% | 10.31 |
-| LKK | lykke | 1.5% | 0.1% | 2585% | 64.69 |
-| XBY | xtrabytes | 0.4% | 0.0% | 2359% | 19.53 |
-| SWT | swarm city | 0.4% | 0.0% | 2265% | 21.40 |
-| HMQ | humaniq | 0.3% | 0.0% | 1168% | 29.04 |
-| MOON | mooncoin | 0.2% | 0.0% | 1100% | 22.03 |
-| VTC | vertcoin | 0.3% | 0.0% | 1051% | 27.68 |
-| PIVX | pivx | 0.8% | 0.1% | 982% | 93.81 |
-| RDD | reddcoin | 0.5% | 0.1% | 892% | 57.05 |
-| GNT | golem | 3.7% | 0.4% | 854% | 485.46 |
-| XMR | monero | 5.6% | 0.7% | 852% | 725.85 |
-| ARK | ark | 0.5% | 0.1% | 830% | 70.11 |
-| SC | siacoin | 2.7% | 0.4% | 708% | 421.27 |
-| DGB | digibyte | 1.3% | 0.2% | 600% | 242.31 |
-| WINGS | wings | 0.2% | 0.0% | 458% | 52.94 |
-| UBQ | ubiq | 0.3% | 0.1% | 447% | 81.33 |
-| NXT | nxt | 0.6% | 0.1% | 428% | 158.40 |
-| ARDR | ardor | 0.8% | 0.2% | 426% | 216.00 |
-| ANS | antshares | 1.1% | 0.3% | 418% | 295.46 |
-| ANT | aragon | 0.4% | 0.1% | 400% | 97.02 |
-| FCT | factom | 0.8% | 0.2% | 334% | 276.04 |
-| STRAT | stratis | 2.1% | 0.7% | 326% | 727.63 |
-| LTC | litecoin | 6.3% | 2.2% | 293% | 2,387.58 |
-| ZEC | zcash | 1.4% | 0.5% | 270% | 584.49 |
-| DCR | decred | 0.5% | 0.2% | 265% | 210.57 |
-| MIOTA | iota | 2.6% | 1.0% | 258% | 1,128.14 |
-| LSK | lisk | 0.7% | 0.3% | 224% | 345.65 |
-| DASH | dash | 2.8% | 1.3% | 216% | 1,422.82 |
-| GBYTE | byteball | 0.4% | 0.2% | 213% | 193.89 |
-| XEM | nem | 3.4% | 1.6% | 210% | 1,773.64 |
-| DOGE | dogecoin | 0.6% | 0.3% | 186% | 352.65 |
-| STEEM | steem | 0.7% | 0.4% | 175% | 470.76 |
-| ICN | iconomi | 0.3% | 0.2% | 168% | 202.11 |
-| WAVES | waves | 0.6% | 0.5% | 125% | 502.91 |
-| BTS | bitshares | 0.8% | 0.8% | 107% | 840.33 |
-| BCN | bytecoin | 0.3% | 0.4% | 71% | 480.63 |
-| ETC | ethereum classic | 1.3% | 1.8% | 70% | 2,042.36 |
-| ETH | ethereum | 18.2% | 31.2% | 58% | 34,512.96 |
-| BTC | bitcoin | 20.5% | 37.9% | 54% | 41,856.80 |
-| XRP | ripple | 3.7% | 9.8% | 38% | 10,866.43 |
 * bitcoin
   * https://www.bitcoin.com/
   * https://github.com/bitcoin/bitcoin/
