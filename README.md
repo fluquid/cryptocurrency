@@ -50,47 +50,55 @@ Sentiment analysis to be added soon ;)
 * Reddit (CryptoCurrency + Best_of_crypto) keyword mentions May 1st - June 18th 2017
 * Submission (title, selftext) + comment.body >= 3 points, with symbols replaced for full names.
 * Filtered for https://coinmarketcap.com/all/views/all/ "All" (excluding common dictionary words like `['crypto', 'money', 'impact', 'version', 'universe', 'altcoin', 'tickets', 'rise', 'verge']`)
-* Note: Market Caps at final value, i.e. not reflective of the time period.
-* Minimum mentions: 0.3%
+* Note: Market Caps at final value, i.e. not representative of the time period.
+* Minimum mentions: 0.2%
 
 total mentions: 9096
 
-| symbol | name | % mentions | % market cap | mentions / market cap |
-|-|-|-|-|-|
-| GRC | gridcoin | 1.8% | 0.0% | 6687% |
-| ZEN | zencash | 0.3% | 0.0% | 3224% |
-| LKK | lykke | 1.0% | 0.1% | 1733% |
-| PIVX | pivx | 1.1% | 0.1% | 1315% |
-| RDD | reddcoin | 0.5% | 0.1% | 911% |
-| XMR | monero | 5.9% | 0.7% | 893% |
-| GNT | golem | 3.4% | 0.4% | 781% |
-| ARK | ark | 0.4% | 0.1% | 629% |
-| SC | siacoin | 2.0% | 0.4% | 512% |
-| NXT | nxt | 0.7% | 0.1% | 457% |
-| SYS | syscoin | 0.4% | 0.1% | 411% |
-| DGB | digibyte | 0.9% | 0.2% | 395% |
-| ARDR | ardor | 0.7% | 0.2% | 353% |
-| LTC | litecoin | 6.3% | 2.1% | 300% |
-| ZEC | zcash | 1.5% | 0.5% | 289% |
-| ANS | antshares | 0.6% | 0.2% | 278% |
-| DASH | dash | 3.4% | 1.3% | 259% |
-| FCT | factom | 0.5% | 0.2% | 221% |
-| ICN | iconomi | 0.4% | 0.2% | 210% |
-| XEM | nem | 3.2% | 1.6% | 193% |
-| STEEM | steem | 0.8% | 0.4% | 188% |
-| DOGE | dogecoin | 0.6% | 0.3% | 184% |
-| STRAT | stratis | 1.2% | 0.7% | 181% |
-| DCR | decred | 0.3% | 0.2% | 176% |
-| LSK | lisk | 0.5% | 0.3% | 172% |
-| MIOTA | iota | 1.4% | 1.0% | 140% |
-| WAVES | waves | 0.6% | 0.5% | 131% |
-| BTS | bitshares | 0.9% | 0.8% | 114% |
-| BCN | bytecoin | 0.5% | 0.4% | 106% |
-| XRP | ripple | 8.9% | 9.9% | 89% |
-| ETC | ethereum classic | 1.3% | 1.9% | 71% |
-| BTC | bitcoin | 21.6% | 37.8% | 57% |
-| ETH | ethereum | 16.4% | 31.2% | 53% |
-
+| symbol | name | % mentions | % market cap | mentions / market cap | market cap (M) |
+|-|-|-|-|-|-|
+| HODL | hodlcoin | 0.3% | 0.0% | 98768% | 0.29 |
+| GRC | gridcoin | 2.0% | 0.0% | 7390% | 29.85 |
+| ZEN | zencash | 0.6% | 0.0% | 6114% | 10.31 |
+| LKK | lykke | 1.5% | 0.1% | 2585% | 64.69 |
+| XBY | xtrabytes | 0.4% | 0.0% | 2359% | 19.53 |
+| SWT | swarm city | 0.4% | 0.0% | 2265% | 21.40 |
+| HMQ | humaniq | 0.3% | 0.0% | 1168% | 29.04 |
+| MOON | mooncoin | 0.2% | 0.0% | 1100% | 22.03 |
+| VTC | vertcoin | 0.3% | 0.0% | 1051% | 27.68 |
+| PIVX | pivx | 0.8% | 0.1% | 982% | 93.81 |
+| RDD | reddcoin | 0.5% | 0.1% | 892% | 57.05 |
+| GNT | golem | 3.7% | 0.4% | 854% | 485.46 |
+| XMR | monero | 5.6% | 0.7% | 852% | 725.85 |
+| ARK | ark | 0.5% | 0.1% | 830% | 70.11 |
+| SC | siacoin | 2.7% | 0.4% | 708% | 421.27 |
+| DGB | digibyte | 1.3% | 0.2% | 600% | 242.31 |
+| WINGS | wings | 0.2% | 0.0% | 458% | 52.94 |
+| UBQ | ubiq | 0.3% | 0.1% | 447% | 81.33 |
+| NXT | nxt | 0.6% | 0.1% | 428% | 158.40 |
+| ARDR | ardor | 0.8% | 0.2% | 426% | 216.00 |
+| ANS | antshares | 1.1% | 0.3% | 418% | 295.46 |
+| ANT | aragon | 0.4% | 0.1% | 400% | 97.02 |
+| FCT | factom | 0.8% | 0.2% | 334% | 276.04 |
+| STRAT | stratis | 2.1% | 0.7% | 326% | 727.63 |
+| LTC | litecoin | 6.3% | 2.2% | 293% | 2,387.58 |
+| ZEC | zcash | 1.4% | 0.5% | 270% | 584.49 |
+| DCR | decred | 0.5% | 0.2% | 265% | 210.57 |
+| MIOTA | iota | 2.6% | 1.0% | 258% | 1,128.14 |
+| LSK | lisk | 0.7% | 0.3% | 224% | 345.65 |
+| DASH | dash | 2.8% | 1.3% | 216% | 1,422.82 |
+| GBYTE | byteball | 0.4% | 0.2% | 213% | 193.89 |
+| XEM | nem | 3.4% | 1.6% | 210% | 1,773.64 |
+| DOGE | dogecoin | 0.6% | 0.3% | 186% | 352.65 |
+| STEEM | steem | 0.7% | 0.4% | 175% | 470.76 |
+| ICN | iconomi | 0.3% | 0.2% | 168% | 202.11 |
+| WAVES | waves | 0.6% | 0.5% | 125% | 502.91 |
+| BTS | bitshares | 0.8% | 0.8% | 107% | 840.33 |
+| BCN | bytecoin | 0.3% | 0.4% | 71% | 480.63 |
+| ETC | ethereum classic | 1.3% | 1.8% | 70% | 2,042.36 |
+| ETH | ethereum | 18.2% | 31.2% | 58% | 34,512.96 |
+| BTC | bitcoin | 20.5% | 37.9% | 54% | 41,856.80 |
+| XRP | ripple | 3.7% | 9.8% | 38% | 10,866.43 |
 * bitcoin
   * https://www.bitcoin.com/
   * https://github.com/bitcoin/bitcoin/
