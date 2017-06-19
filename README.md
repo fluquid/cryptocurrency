@@ -16,7 +16,7 @@ Sentiment analysis to be added soon ;)
 
 total mentions: 9080
 
-| symbol | name | %mentions / %market cap | # mentions | market cap ($M) | growth 7d %% |
+| symbol | name | %mentions /<br>%market cap | # mentions | market cap<br>($M) | growth 7d |
 |-|-|-:|-:|-:|-:|
 | HODL | hodlcoin | 93190.5% | 27 | 0.4 | 24% &#x1F49A; |
 | GRC | gridcoin | 6337.0% | 167 | 32.2 | -9% &#x1F494; |
