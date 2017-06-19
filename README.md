@@ -18,58 +18,58 @@ total mentions: 9080
 
 | symbol | name | %mentions / %market cap | # mentions | market cap ($M) | growth 7d %% |
 |-|-|-:|-:|-:|-:|
-| HODL | hodlcoin | 93190.5% | 27 | 0.4 | <span style="color: green;">24%</span> |
-| GRC | gridcoin | 6337.0% | 167 | 32.2 | <span style="color: red;">-9%</span> |
-| ZEN | zencash | 3406.4% | 30 | 10.8 | <span style="color: red;">-30%</span> |
-| LKK | lykke | 1729.1% | 92 | 65.0 | <span style="color: green;">3%</span> |
-| XBY | xtrabytes | 1475.9% | 20 | 16.5 | <span style="color: green;">9%</span> |
-| PIVX | pivx | 1356.7% | 105 | 94.5 | <span style="color: green;">10%</span> |
-| SWT | swarm city | 1169.0% | 20 | 20.9 | <span style="color: red;">-44%</span> |
-| VTC | vertcoin | 1089.7% | 25 | 28.0 | <span style="color: red;">-3%</span> |
-| RDD | reddcoin | 954.2% | 44 | 56.3 | <span style="color: red;">-21%</span> |
-| FTC | feathercoin | 954.1% | 11 | 14.1 | <span style="color: red;">-23%</span> |
-| XMR | monero | 907.9% | 541 | 727.8 | <span style="color: red;">-11%</span> |
-| MOON | mooncoin | 876.5% | 14 | 19.5 | <span style="color: red;">-45%</span> |
-| GNT | golem | 660.4% | 307 | 567.8 | <span style="color: green;">26%</span> |
-| ARK | ark | 651.0% | 38 | 71.3 | <span style="color: red;">-10%</span> |
-| HMQ | humaniq | 645.3% | 15 | 28.4 | <span style="color: red;">-14%</span> |
-| BLOCK | blocknet | 617.9% | 12 | 23.7 | <span style="color: red;">-3%</span> |
-| WINGS | wings | 511.0% | 23 | 55.0 | <span style="color: red;">-13%</span> |
-| SC | siacoin | 478.3% | 178 | 454.5 | <span style="color: green;">12%</span> |
-| POT | potcoin | 466.6% | 10 | 26.2 | <span style="color: green;">15%</span> |
-| NXT | nxt | 422.9% | 61 | 176.1 | <span style="color: green;">18%</span> |
-| DGB | digibyte | 395.0% | 77 | 238.1 | <span style="color: red;">-13%</span> |
-| SYS | syscoin | 373.9% | 31 | 101.2 | <span style="color: green;">2%</span> |
-| ARDR | ardor | 335.0% | 63 | 229.7 | <span style="color: green;">29%</span> |
-| MYST | mysterium | 310.5% | 11 | 43.3 | <span style="color: red;">0%</span> |
-| ZEC | zcash | 300.7% | 143 | 580.7 | <span style="color: green;">14%</span> |
-| ANT | aragon | 299.5% | 24 | 97.9 | <span style="color: red;">-29%</span> |
-| DASH | dash | 281.5% | 337 | 1,462.2 | <span style="color: green;">5%</span> |
-| LTC | litecoin | 277.3% | 588 | 2,589.8 | <span style="color: green;">60%</span> |
-| PPC | peercoin | 260.0% | 12 | 56.4 | <span style="color: green;">7%</span> |
-| UBQ | ubiq | 253.2% | 16 | 77.2 | <span style="color: red;">-20%</span> |
-| ANS | antshares | 247.4% | 61 | 301.1 | <span style="color: green;">277%</span> |
-| USDT | tether | 242.5% | 25 | 125.9 | <span style="color: red;">-3%</span> |
-| FCT | factom | 217.3% | 52 | 292.2 | <span style="color: green;">18%</span> |
-| XEM | nem | 198.1% | 293 | 1,806.3 | <span style="color: red;">-9%</span> |
-| STEEM | steem | 187.1% | 75 | 489.6 | <span style="color: red;">-8%</span> |
-| ICN | iconomi | 186.5% | 33 | 216.1 | <span style="color: green;">28%</span> |
-| STRAT | stratis | 186.4% | 111 | 727.2 | <span style="color: red;">-9%</span> |
-| DOGE | dogecoin | 186.4% | 54 | 353.8 | <span style="color: red;">-7%</span> |
-| DCR | decred | 168.2% | 29 | 210.5 | <span style="color: green;">2%</span> |
-| LSK | lisk | 164.1% | 47 | 349.9 | <span style="color: red;">-7%</span> |
-| GBYTE | byteball | 154.5% | 26 | 205.5 | <span style="color: green;">20%</span> |
-| WAVES | waves | 136.5% | 56 | 500.9 | <span style="color: red;">-16%</span> |
-| MIOTA | iota | 135.3% | 127 | 1,146.6 | <span style="color: red;">0%</span> |
-| BCN | bytecoin | 109.3% | 42 | 469.1 | <span style="color: red;">-21%</span> |
-| BTS | bitshares | 108.2% | 77 | 869.3 | <span style="color: red;">-8%</span> |
-| XRP | ripple | 91.6% | 812 | 10,831.7 | <span style="color: green;">6%</span> |
-| REP | augur | 81.6% | 23 | 344.1 | <span style="color: red;">-5%</span> |
-| ETC | ethereum classic | 71.2% | 123 | 2,109.4 | <span style="color: green;">4%</span> |
-| KMD | komodo | 64.2% | 12 | 228.2 | <span style="color: green;">46%</span> |
-| BTC | bitcoin | 57.7% | 2005 | 42,467.1 | <span style="color: red;">-10%</span> |
-| XLM | stellar lumens | 55.5% | 17 | 374.4 | <span style="color: red;">-11%</span> |
-| ETH | ethereum | 52.9% | 1500 | 34,632.7 | <span style="color: red;">-2%</span> |
+| HODL | hodlcoin | 93190.5% | 27 | 0.4 | 24% &#x1F49A; |
+| GRC | gridcoin | 6337.0% | 167 | 32.2 | -9% &#x1F494; |
+| ZEN | zencash | 3406.4% | 30 | 10.8 | -30% &#x1F494; |
+| LKK | lykke | 1729.1% | 92 | 65.0 | 3% &#x1F49A; |
+| XBY | xtrabytes | 1475.9% | 20 | 16.5 | 9% &#x1F49A; |
+| PIVX | pivx | 1356.7% | 105 | 94.5 | 10% &#x1F49A; |
+| SWT | swarm city | 1169.0% | 20 | 20.9 | -44% &#x1F494; |
+| VTC | vertcoin | 1089.7% | 25 | 28.0 | -3% &#x1F494; |
+| RDD | reddcoin | 954.2% | 44 | 56.3 | -21% &#x1F494; |
+| FTC | feathercoin | 954.1% | 11 | 14.1 | -23% &#x1F494; |
+| XMR | monero | 907.9% | 541 | 727.8 | -11% &#x1F494; |
+| MOON | mooncoin | 876.5% | 14 | 19.5 | -45% &#x1F494; |
+| GNT | golem | 660.4% | 307 | 567.8 | 26% &#x1F49A; |
+| ARK | ark | 651.0% | 38 | 71.3 | -10% &#x1F494; |
+| HMQ | humaniq | 645.3% | 15 | 28.4 | -14% &#x1F494; |
+| BLOCK | blocknet | 617.9% | 12 | 23.7 | -3% &#x1F494; |
+| WINGS | wings | 511.0% | 23 | 55.0 | -13% &#x1F494; |
+| SC | siacoin | 478.3% | 178 | 454.5 | 12% &#x1F49A; |
+| POT | potcoin | 466.6% | 10 | 26.2 | 15% &#x1F49A; |
+| NXT | nxt | 422.9% | 61 | 176.1 | 18% &#x1F49A; |
+| DGB | digibyte | 395.0% | 77 | 238.1 | -13% &#x1F494; |
+| SYS | syscoin | 373.9% | 31 | 101.2 | 2% &#x1F49A; |
+| ARDR | ardor | 335.0% | 63 | 229.7 | 29% &#x1F49A; |
+| MYST | mysterium | 310.5% | 11 | 43.3 | 0% &#x1F494; |
+| ZEC | zcash | 300.7% | 143 | 580.7 | 14% &#x1F49A; |
+| ANT | aragon | 299.5% | 24 | 97.9 | -29% &#x1F494; |
+| DASH | dash | 281.5% | 337 | 1,462.2 | 5% &#x1F49A; |
+| LTC | litecoin | 277.3% | 588 | 2,589.8 | 60% &#x1F49A; |
+| PPC | peercoin | 260.0% | 12 | 56.4 | 7% &#x1F49A; |
+| UBQ | ubiq | 253.2% | 16 | 77.2 | -20% &#x1F494; |
+| ANS | antshares | 247.4% | 61 | 301.1 | 277% &#x1F49A; |
+| USDT | tether | 242.5% | 25 | 125.9 | -3% &#x1F494; |
+| FCT | factom | 217.3% | 52 | 292.2 | 18% &#x1F49A; |
+| XEM | nem | 198.1% | 293 | 1,806.3 | -9% &#x1F494; |
+| STEEM | steem | 187.1% | 75 | 489.6 | -8% &#x1F494; |
+| ICN | iconomi | 186.5% | 33 | 216.1 | 28% &#x1F49A; |
+| STRAT | stratis | 186.4% | 111 | 727.2 | -9% &#x1F494; |
+| DOGE | dogecoin | 186.4% | 54 | 353.8 | -7% &#x1F494; |
+| DCR | decred | 168.2% | 29 | 210.5 | 2% &#x1F49A; |
+| LSK | lisk | 164.1% | 47 | 349.9 | -7% &#x1F494; |
+| GBYTE | byteball | 154.5% | 26 | 205.5 | 20% &#x1F49A; |
+| WAVES | waves | 136.5% | 56 | 500.9 | -16% &#x1F494; |
+| MIOTA | iota | 135.3% | 127 | 1,146.6 | 0% &#x1F494; |
+| BCN | bytecoin | 109.3% | 42 | 469.1 | -21% &#x1F494; |
+| BTS | bitshares | 108.2% | 77 | 869.3 | -8% &#x1F494; |
+| XRP | ripple | 91.6% | 812 | 10,831.7 | 6% &#x1F49A; |
+| REP | augur | 81.6% | 23 | 344.1 | -5% &#x1F494; |
+| ETC | ethereum classic | 71.2% | 123 | 2,109.4 | 4% &#x1F49A; |
+| KMD | komodo | 64.2% | 12 | 228.2 | 46% &#x1F49A; |
+| BTC | bitcoin | 57.7% | 2005 | 42,467.1 | -10% &#x1F494; |
+| XLM | stellar lumens | 55.5% | 17 | 374.4 | -11% &#x1F494; |
+| ETH | ethereum | 52.9% | 1500 | 34,632.7 | -2% &#x1F494; |
 
 ## Github Stats
 
