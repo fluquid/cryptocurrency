@@ -17,15 +17,15 @@ Sentiment analysis to be added soon ;)
 | PIVX | [pivx](https://coinmarketcap.com/currencies/pivx/) | 1445.8% | 79 | 96 | 11% &#x1F49A; | 1 | 1 |
 | XMR | [monero](https://coinmarketcap.com/currencies/monero/) | 1118.2% | 471 | 738 | -3% &#x1F494; | 0 | 0 |
 | RDD | [reddcoin](https://coinmarketcap.com/currencies/reddcoin/) | 1063.2% | 32 | 53 | -22% &#x1F494; | 1 | 1 |
-| VTC | [vertcoin](https://coinmarketcap.com/currencies/vertcoin/) | 1050.1% | 21 | 35 | 23% &#x1F49A; | -1 | -1 |
-| MOON | [mooncoin](https://coinmarketcap.com/currencies/mooncoin/) | 905.9% | 11 | 21 | -27% &#x1F494; | 3 | 3 |
+| VTC | [vertcoin](https://coinmarketcap.com/currencies/vertcoin/) | 1050.1% | 21 | 35 | 23% &#x1F49A; | -1 | - |
+| MOON | [mooncoin](https://coinmarketcap.com/currencies/mooncoin/) | 905.9% | 11 | 21 | -27% &#x1F494; | - | - |
 | GNT | [golem](https://coinmarketcap.com/currencies//assets/golem-network-tokens//) | 750.8% | 245 | 572 | 15% &#x1F49A; | 1 | 1 |
 | ARK | [ark](https://coinmarketcap.com/currencies/ark/) | 745.4% | 29 | 68 | -22% &#x1F494; | 2 | 2 |
-| BLOCK | [blocknet](https://coinmarketcap.com/currencies/blocknet/) | 656.8% | 10 | 27 | 19% &#x1F49A; | -2 | - |
+| BLOCK | [blocknet](https://coinmarketcap.com/currencies/blocknet/) | 656.8% | 10 | 27 | 19% &#x1F49A; | - | - |
 | WINGS | [wings](https://coinmarketcap.com/currencies//assets/wings//) | 493.1% | 15 | 53 | -20% &#x1F494; | 0 | - |
 | SC | [siacoin](https://coinmarketcap.com/currencies/siacoin/) | 454.4% | 143 | 551 | 29% &#x1F49A; | 2 | 1 |
 | ANS | [antshares](https://coinmarketcap.com/currencies/antshares/) | 450.7% | 123 | 478 | 445% &#x1F49A; | 1 | 1 |
-| MYST | [mysterium](https://coinmarketcap.com/currencies/mysterium/) | 393.7% | 12 | 53 | 0% &#x1F494; | 2 | 2 |
+| MYST | [mysterium](https://coinmarketcap.com/currencies/mysterium/) | 393.7% | 12 | 53 | 0% &#x1F494; | 2 | - |
 | DGB | [digibyte](https://coinmarketcap.com/currencies/digibyte/) | 334.9% | 48 | 251 | -22% &#x1F494; | -1 | -1 |
 | DASH | [dash](https://coinmarketcap.com/currencies/dash/) | 330.7% | 270 | 1,431 | 8% &#x1F49A; | -0 | -0 |
 | NXT | [nxt](https://coinmarketcap.com/currencies/nxt/) | 325.5% | 33 | 178 | -18% &#x1F494; | 3 | 3 |
@@ -36,7 +36,7 @@ Sentiment analysis to be added soon ;)
 | ANT | [aragon](https://coinmarketcap.com/currencies//assets/aragon//) | 257.6% | 14 | 95 | -27% &#x1F494; | 2 | 1 |
 | STEEM | [steem](https://coinmarketcap.com/currencies/steem/) | 202.6% | 59 | 510 | -9% &#x1F494; | -1 | -1 |
 | DOGE | [dogecoin](https://coinmarketcap.com/currencies/dogecoin/) | 187.2% | 38 | 356 | -2% &#x1F494; | 0 | 0 |
-| USDT | [tether](https://coinmarketcap.com/currencies//assets/tether//) | 186.0% | 15 | 141 | -4% &#x1F494; | 3 | 2 |
+| USDT | [tether](https://coinmarketcap.com/currencies//assets/tether//) | 186.0% | 15 | 141 | -4% &#x1F494; | 3 | - |
 | STRAT | [stratis](https://coinmarketcap.com/currencies/stratis/) | 183.7% | 78 | 744 | -13% &#x1F494; | 1 | 1 |
 | XEM | [nem](https://coinmarketcap.com/currencies/nem/) | 180.9% | 190 | 1,841 | -2% &#x1F494; | 2 | 2 |
 | SYS | [syscoin](https://coinmarketcap.com/currencies/syscoin/) | 180.0% | 12 | 117 | 6% &#x1F49A; | 3 | - |
@@ -45,9 +45,9 @@ Sentiment analysis to be added soon ;)
 | MIOTA | [iota](https://coinmarketcap.com/currencies/iota/) | 160.4% | 105 | 1,147 | -33% &#x1F494; | -1 | -1 |
 | GBYTE | [byteball](https://coinmarketcap.com/currencies/byteball/) | 150.5% | 16 | 186 | 3% &#x1F49A; | 2 | 1 |
 | ICN | [iconomi](https://coinmarketcap.com/currencies//assets/iconomi//) | 136.3% | 28 | 360 | 110% &#x1F49A; | 3 | 2 |
-| XLM | [stellar lumens](https://coinmarketcap.com/currencies/stellar/) | 126.6% | 29 | 401 | -1% &#x1F494; | -1 | -4 |
+| XLM | [stellar lumens](https://coinmarketcap.com/currencies/stellar/) | 126.6% | 29 | 401 | -1% &#x1F494; | -1 | - |
 | WAVES | [waves](https://coinmarketcap.com/currencies/waves/) | 118.4% | 34 | 503 | -12% &#x1F494; | 3 | 3 |
-| BCN | [bytecoin](https://coinmarketcap.com/currencies/bytecoin-bcn/) | 107.1% | 32 | 524 | -10% &#x1F494; | -4 | -5 |
+| BCN | [bytecoin](https://coinmarketcap.com/currencies/bytecoin-bcn/) | 107.1% | 32 | 524 | -10% &#x1F494; | -4 | - |
 | BTS | [bitshares](https://coinmarketcap.com/currencies/bitshares/) | 100.3% | 51 | 891 | -6% &#x1F494; | 1 | 2 |
 | XRP | [ripple](https://coinmarketcap.com/currencies/ripple/) | 77.1% | 570 | 12,954 | 31% &#x1F49A; | -0 | -0 |
 | ETC | [ethereum classic](https://coinmarketcap.com/currencies/ethereum-classic/) | 75.1% | 89 | 2,076 | 10% &#x1F49A; | - | - |
@@ -56,6 +56,7 @@ Sentiment analysis to be added soon ;)
 | ETH | [ethereum](https://coinmarketcap.com/currencies/ethereum/) | 53.2% | 1060 | 34,946 | -3% &#x1F494; | 0 | 0 |
 
 
+### Notes
 * Reddit (r/CryptoCurrency + r/Best_of_crypto) keyword mentions
 * Basis: comment.body for comments > 2 points, with currency symbols replaced for full names.
 * Filtered for https://coinmarketcap.com/all/views/all/ "All"; excluding common dictionary words:
@@ -67,7 +68,7 @@ Sentiment analysis to be added soon ;)
 * Sentiment is still very rough. (mean - stddev/2)*10 for sentences with abs polarity > 0.2
 * Minimum # mentions: 10
 * Total mentions: 1
-* Last updated: 2017-06-20T17:43:09.885866
+* Last updated: 2017-06-20T17:49:27.190377
 * Time period: 2017-04-30 - 2017-06-20
 
 
