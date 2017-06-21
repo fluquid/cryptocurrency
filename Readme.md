@@ -70,7 +70,7 @@ Sentiment analysis to be added soon ;)
     * Due to unfortunate naming of some coins, and general challenges of text processing, it's is likely that mentions will be missing or superfluous in the below listing. We'll work to increase the accuracy in future releases.
 * Sentiment is still very rough. (mean - stddev/2)*10 for sentences with abs polarity > 0.2
 * Minimum # mentions: 10
-* Total mentions: 1
+* Total mentions: 6715
 * Time period: 2017-04-30 - 2017-06-21
 
 
