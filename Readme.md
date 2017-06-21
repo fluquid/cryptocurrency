@@ -5,6 +5,8 @@ Inspired by https://github.com/kilimchoi/cryptocurrency
 
 ## Mindshare / Social Chatter
 
+Last Update: 2017-06-21
+
 The below are not to be understood as endorsements, they are merely mentions that indicate that a certain altcoin is being discussed.
 Sentiment analysis to be added soon ;)
 
@@ -69,7 +71,6 @@ Sentiment analysis to be added soon ;)
 * Sentiment is still very rough. (mean - stddev/2)*10 for sentences with abs polarity > 0.2
 * Minimum # mentions: 10
 * Total mentions: 1
-* Last updated: 2017-06-21T10:33:59.656979
 * Time period: 2017-04-30 - 2017-06-21
 
 
